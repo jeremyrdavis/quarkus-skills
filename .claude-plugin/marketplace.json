@@ -1,0 +1,22 @@
+{
+  "name": "quarkus-skills",
+  "owner": {
+    "name": "Max Rydahl Andersen",
+    "email": "max.andersen@gmail.com"
+  },
+  "metadata": {
+    "description": "Quarkus development skills for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "quarkus-development",
+      "description": "Collection of skills for Quarkus project development, maintenance, and upgrades",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/quarkus-update"
+      ]
+    }
+  ]
+}
