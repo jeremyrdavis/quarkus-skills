@@ -1,6 +1,10 @@
 # quarkus-skills
 Agent skills for developing and maintaining Quarkus applications
 
+**NOTE**: This is a work in progress. Use at your own risk.
+
+This repository contains a collection of skills for developing and maintaining Quarkus applications.
+
 ## Installation
 
 ### Using npx skills add
