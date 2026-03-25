@@ -15,7 +15,9 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/quarkus-update"
+        "./skills/quarkus-update",
+        "./skills/quarkus-app",
+        "./skills/quarkus-ddd"
       ]
     }
   ]
