@@ -10,8 +10,8 @@
   },
   "plugins": [
     {
-      "name": "quarkus-development",
-      "description": "Collection of skills for Quarkus project development, maintenance, and upgrades",
+      "name": "quarkus-appdev",
+      "description": "Skills for developing and maintaining Quarkus applications",
       "source": "./",
       "strict": false,
       "skills": [
